@@ -1,17 +1,14 @@
 import { Command } from '@oclif/command';
 import * as fs from 'fs-extra';
 import { encryptApiKey } from '../../helpers/encrypt';
+import chalk from 'chalk'
 
 const checkApiKeyLength = (APIKEY: string) => {
-  if (APIKEY.length !== 69) {
-    throw new Error('I don\'t think that is a SendGrid API KEY');
-  };
+  return APIKEY.length === 69;
 };
 
 const checkApiKeyPrefix = (APIKEY: string) => {
-  if (!APIKEY.includes('SG')) {
-    throw new Error('I don\'t think that is a SendGrid API KEY');
-  };
+  return APIKEY.includes('SG');
 };
 
 
@@ -32,10 +29,16 @@ export class SetApiKey extends Command {
 
   async run() {
     const { args: { APIKEY } } = this.parse(SetApiKey);
-    checkApiKeyPrefix(APIKEY);
-    checkApiKeyLength(APIKEY);
+
+    if (!checkApiKeyPrefix(APIKEY) || !checkApiKeyLength(APIKEY)) {
+      console.warn(`\n${chalk.white.bgRed(' ERROR ')} ${chalk.green(APIKEY)} is not a valid SendGrid APIKEY\n`);
+      return false;
+    }
+
     await saveApiKeyToDataDir(APIKEY, this.config.dataDir);
 
-    console.log('APIKEY successfully set ✨');
+    console.log(`
+    APIKEY successfully set ✨
+    `);
   };
 };

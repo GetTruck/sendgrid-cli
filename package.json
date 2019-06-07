@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "Shailen Naidoo",
   "bin": {
-    "sendgrid-cli": "./bin/run"
+    "sendgrid": "./bin/run"
   },
   "bugs": "https://github.com/GetTruck/sendgrid-cli/issues",
   "dependencies": {
@@ -13,6 +13,7 @@
     "@oclif/plugin-help": "^2",
     "@types/cryptr": "^4.0.0",
     "@types/fs-extra": "^7.0.0",
+    "chalk": "^2.4.2",
     "cryptr": "^4.0.2",
     "fs-extra": "^8.0.1",
     "tslib": "^1"
@@ -42,13 +43,13 @@
   "main": "lib/index.js",
   "oclif": {
     "commands": "./lib/commands",
-    "bin": "sendgrid-cli",
+    "bin": "sendgrid",
     "plugins": [
       "@oclif/plugin-help"
     ],
     "topics": {
       "apikey": {
-        "description": "Manage your SendGrid API KEY"
+        "description": "Manage your SendGrid APIKEY"
       },
       "contacts": {
         "description": "Manage your contacts"

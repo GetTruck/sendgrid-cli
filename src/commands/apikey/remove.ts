@@ -13,6 +13,8 @@ export class RemoveApiIKey extends Command {
   async run() {
     await removeApiKeyFromDataDir(this.config.dataDir);
 
-    console.log('API KEY successfully removed ✨');
+    console.log(`
+    APIKEY successfully removed ✨
+    `);
   };
 };
