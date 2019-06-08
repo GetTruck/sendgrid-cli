@@ -1,4 +1,4 @@
-sendgrid-cli
+SendGrid CLI
 ============
 
 A full-fledge CLI for SendGrid API
