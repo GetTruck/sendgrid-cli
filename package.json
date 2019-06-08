@@ -11,9 +11,11 @@
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/plugin-help": "^2",
+    "@sendgrid/client": "^6.4.0",
     "@types/cryptr": "^4.0.0",
     "@types/fs-extra": "^7.0.0",
     "chalk": "^2.4.2",
+    "cli-ux": "^5.2.1",
     "cryptr": "^4.0.2",
     "fs-extra": "^8.0.1",
     "tslib": "^1"
@@ -61,7 +63,8 @@
     "postpack": "rimraf oclif.manifest.json",
     "prepack": "rimraf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
     "test": "echo NO TESTS",
-    "version": "oclif-dev readme && git add README.md"
+    "version": "oclif-dev readme && git add README.md",
+    "cli": "./bin/run"
   },
   "types": "lib/index.d.ts"
 }
