@@ -61,7 +61,7 @@
   "repository": "https://github.com/GetTruck/sendgrid-cli",
   "scripts": {
     "postpack": "rimraf oclif.manifest.json",
-    "prepack": "rimraf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
+    "prepack": "tsc -b && oclif-dev manifest && oclif-dev readme",
     "test": "echo NO TESTS",
     "version": "oclif-dev readme && git add README.md",
     "cli": "./bin/run"
