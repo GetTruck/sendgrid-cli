@@ -6,7 +6,7 @@ import { decryptApiKey } from '../../helpers/encrypt';
 import { cli } from 'cli-ux';
 
 export class UploadContacts extends Command {
-  static description = '';
+  static description = 'Upload your contacts to the SendGrid Contacts Database';
 
   static args = [
     {
