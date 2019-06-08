@@ -1418,6 +1418,31 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/alphabet.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/alphabet.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/metadata.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/parse.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/args.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/metadata.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/help.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/index.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/args.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
@@ -1426,71 +1451,44 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/command.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/flags.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/command.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/flags.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/main.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/contacts/upload.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/table.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/index.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/action/base.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/config.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/exit.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/prompt.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/table.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/header.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/json.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/tree.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/open.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/apikey/set.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/apikey/remove.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/apikey/index.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/src/index.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/main.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/flags.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/command.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/index.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/hooks.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/pjson.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/manifest.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/topic.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/plugin.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/manifest.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/pjson.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/topic.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/config.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/command.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/hooks.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/pjson.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/plugin.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/topic.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1505,65 +1503,35 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/hooks.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/flags.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/config.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/hooks.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/pjson.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/plugin.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/topic.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/plugin.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/manifest.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/pjson.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/topic.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/manifest.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/command.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/parse.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/args.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/metadata.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/alphabet.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/alphabet.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/help.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/index.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/metadata.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/command.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/flags.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/pjson.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/main.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/config/lib/topic.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/command.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/flags.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/main.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/src/index.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
       ],
       "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/chalk/types/index.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
@@ -1574,6 +1542,205 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/assert.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/async_hooks.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/buffer.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/child_process.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/cluster.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/child_process.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/console.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/constants.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/crypto.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dgram.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/domain.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/fs.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http2.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/fs.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tls.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/https.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tls.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/inspector.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/module.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/os.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/path.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/perf_hooks.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/async_hooks.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/process.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/punycode.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/querystring.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/readline.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/repl.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/readline.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/vm.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/string_decoder.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/timers.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tls.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/crypto.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/trace_events.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tty.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/querystring.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/v8.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/vm.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/zlib.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1620,11 +1787,86 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/zlib.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/globals.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/index.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/base.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/globals.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/fs-extra/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/fs.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/apikey/index.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/apikey/remove.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/cryptr/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/apikey/set.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/attachment.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/personalization.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/mail.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/attachment.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/personalization.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/response-error.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/attachment.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/mail.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/personalization.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/response-error.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/caseless/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/form-data/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/tough-cookie/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/request/index.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/caseless/index.d.ts",
@@ -1638,6 +1880,11 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tls.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/client/src/request.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/request/index.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1658,245 +1905,25 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/client/src/request.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/request/index.d.ts",
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/handle.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/form-data/index.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/index.d.ts",
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/errors/cli.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/fs-extra/index.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/fs.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/index.d.ts",
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/errors/exit.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/errors/cli.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/async_hooks.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/logger.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/perf_hooks.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/async_hooks.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/buffer.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/child_process.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/cluster.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/child_process.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/console.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/constants.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/crypto.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tls.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/crypto.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/https.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tls.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http2.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/fs.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tls.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dgram.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/dns.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/tty.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/http.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/net.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/domain.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/worker_threads.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/zlib.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/readline.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/repl.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/readline.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/vm.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/fs.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/stream.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/inspector.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/events.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/module.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/os.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/path.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/process.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/punycode.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/querystring.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/url.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/querystring.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/string_decoder.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/timers.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/trace_events.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/open.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/tree.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/json.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/header.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/prompt.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/exit.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/config.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/action/base.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/action/base.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/config.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/logger.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -1909,88 +1936,61 @@
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/config.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/logger.d.ts",
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/action/base.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/logger.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/config.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/action/base.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/errors/exit.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/errors/cli.d.ts",
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/exit.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/errors/cli.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/prompt.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/handle.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/table.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/parser/lib/flags.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/tough-cookie/index.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/header.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/caseless/index.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/json.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/index.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/attachment.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/mail.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/personalization.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/response-error.d.ts",
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/tree.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/response-error.d.ts": [
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/open.d.ts": [
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/mail.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/attachment.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/personalization.d.ts",
+      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/index.d.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/errors/lib/index.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/action/base.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/config.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/exit.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/prompt.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/table.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/header.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/json.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/styled/tree.d.ts",
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/cli-ux/lib/open.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
         "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/personalization.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/email-address.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@sendgrid/helpers/classes/attachment.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/cryptr/index.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/globals.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/globals.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/vm.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/v8.d.ts": [
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/util.d.ts",
-        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      "c:/users/shail/projects/gettruck/sendgrid-cli/src/commands/contacts/upload.ts": [
+        "c:/users/shail/projects/gettruck/sendgrid-cli/node_modules/@oclif/command/lib/index.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
