@@ -30,6 +30,8 @@ export class UploadContacts extends Command {
     if (!args.path) {
       console.log(`
       Please provide a path to the JSON file containing your contacts for uploading
+
+      Try ${chalk.green('contacts:upload <PATH_TO_JSON_FILE>')}
       `)
       return false;
     }
