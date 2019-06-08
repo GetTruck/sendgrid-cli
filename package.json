@@ -18,7 +18,8 @@
     "cli-ux": "^5.2.1",
     "cryptr": "^4.0.2",
     "fs-extra": "^8.0.1",
-    "tslib": "^1"
+    "tslib": "^1",
+    "vuepress": "^1.0.0"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1",
