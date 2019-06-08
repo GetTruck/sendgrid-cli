@@ -1,5 +1,5 @@
 {
-  "name": "sendgrid-cli",
+  "name": "@gettruck/sendgrid-cli",
   "description": "A full-fledge CLI for SendGrid API",
   "version": "0.0.1",
   "author": "Shailen Naidoo",
