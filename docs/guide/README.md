@@ -2,7 +2,7 @@
 
 Welcome to the **SendGrid CLI** :heart:
 
-Are you tired of writing scripts all the time just to do something trivial like upload contacts to the _SendGrid Contact Database_? 
+If you are here, you are probably tired of writing scripts all the time just to do something trivial like upload contacts to the _SendGrid Contact Database_? 
 
 Well, you might have found the right tool to help you with those kinda tasks!
 
