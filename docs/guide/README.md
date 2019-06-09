@@ -1,5 +1,11 @@
 # Introduction
 
+[![Status](https://img.shields.io/badge/status-experimental-red.svg)](https://www.npmjs.com/package/@gettruck/sendgrid-cli)
+[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
+[![Version](https://img.shields.io/npm/v/@gettruck/sendgrid-cli.svg)](https://www.npmjs.com/package/@gettruck/sendgrid-cli)
+[![Downloads/week](https://img.shields.io/npm/dw/@gettruck/sendgrid-cli.svg)](https://npmjs.org/package/@gettruck/sendgrid-cli)
+[![License](https://img.shields.io/npm/l/@gettruck/sendgrid-cli.svg)](https://github.com/GetTruck/sendgrid-cli/blob/master/package.json)
+
 Welcome to the **SendGrid CLI** :heart:
 
 If you are here, you are probably tired of writing scripts all the time just to do something trivial like upload contacts to the _SendGrid Contact Database_? 

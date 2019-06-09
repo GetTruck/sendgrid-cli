@@ -18,5 +18,8 @@ module.exports = {
       }
     ],
     sidebarDepth: 2,
+    repo: 'GetTruck/sendgrid-cli',
+    docsDir: 'docs',
+    editLinks: true,
   }
 }
