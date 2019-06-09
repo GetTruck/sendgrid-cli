@@ -4,6 +4,7 @@ import fs from 'fs-extra';
 import chalk from 'chalk';
 import { decryptApiKey } from '../../helpers/encrypt';
 import { cli } from 'cli-ux';
+import { getDataFileLocation } from '../../helpers';
 
 export class UploadContacts extends Command {
   static description = 'Upload your contacts to the SendGrid Contacts Database';
@@ -16,7 +17,7 @@ export class UploadContacts extends Command {
 
   async run() {
     const { args } = this.parse(UploadContacts);
-    const data = await fs.readJSON(`${this.config.dataDir}/data.json`);
+    const data = await fs.readJSON(getDataFileLocation(this.config));
 
     if (!data.APIKEY) {
       console.log(`
