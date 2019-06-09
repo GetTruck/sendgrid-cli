@@ -5,6 +5,7 @@ import chalk from 'chalk';
 import { decryptApiKey } from '../../helpers/encrypt';
 import { cli } from 'cli-ux';
 import { getDataFileLocation } from '../../helpers';
+import { IdataFile } from '../../helpers/types';
 
 export class UploadContacts extends Command {
   static description = 'Upload your contacts to the SendGrid Contacts Database';
@@ -17,7 +18,7 @@ export class UploadContacts extends Command {
 
   async run() {
     const { args } = this.parse(UploadContacts);
-    const data = await fs.readJSON(getDataFileLocation(this.config));
+    const data: IdataFile = await fs.readJSON(getDataFileLocation(this.config));
 
     if (!data.APIKEY) {
       console.log(`
@@ -77,4 +78,4 @@ export class UploadContacts extends Command {
 
     console.log(`Message: ${chalk.green(response.body.errors[0].message)} @ Indices: ${chalk.green(response.body.errors[0].error_indices)}`);
   };
-};``
+};

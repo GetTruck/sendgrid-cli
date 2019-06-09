@@ -2,6 +2,7 @@ import { Command } from '@oclif/command';
 import chalk from 'chalk';
 import fs from 'fs-extra';
 import { getDataFileLocation } from '../../helpers';
+import { IdataFile } from '../../helpers/types';
 
 
 export class ApiKey extends Command {
@@ -10,7 +11,7 @@ export class ApiKey extends Command {
   async run() {
     const dataFileLocation = getDataFileLocation(this.config);
 
-    const data = await fs.readJSON(dataFileLocation);
+    const data: IdataFile = await fs.readJSON(dataFileLocation);
 
     if(data.APIKEY) {
       console.log(`

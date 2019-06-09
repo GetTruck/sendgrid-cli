@@ -1,3 +1,3 @@
-type dataFilePath = string;
+import { TdataFilePath } from './types';
 
-export const getDataFileLocation = (config: { dataDir: string }): dataFilePath => `${config.dataDir}/data.json`;
+export const getDataFileLocation = (config: { dataDir: string }): TdataFilePath => `${config.dataDir}/data.json`;
