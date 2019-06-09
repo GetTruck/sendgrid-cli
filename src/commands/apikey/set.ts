@@ -2,6 +2,7 @@ import { Command } from '@oclif/command';
 import * as fs from 'fs-extra';
 import { encryptApiKey } from '../../helpers/encrypt';
 import chalk from 'chalk'
+import { getDataFileLocation } from '../../helpers';
 
 const checkApiKeyLength = (APIKEY: string) => {
   return APIKEY.length === 69;
@@ -11,12 +12,17 @@ const checkApiKeyPrefix = (APIKEY: string) => {
   return APIKEY.includes('SG');
 };
 
-
-const saveApiKeyToDataDir = (APIKEY: string, dataDir: string) => {
-  return fs.writeFile(`${dataDir}/data.json`, JSON.stringify({
-    APIKEY: encryptApiKey(APIKEY),
-  }));
+const saveApiKeyToDataDir = (dataDir: string, APIKEY: string) => {
+  return fs.writeJSON(dataDir, { APIKEY: encryptApiKey(APIKEY) });
 };
+
+const ifApikeyDoesNotExist = () => console.warn(`\nPlease provide a ${chalk.green('SendGrid APIKEY')}\n`);
+
+const ifApikeyValidationFails = (APIKEY: string) => console.warn(`\n${chalk.white.bgRed(' ERROR ')} ${chalk.green(APIKEY)} is not a valid SendGrid APIKEY\n`); 
+
+const ifApikeySavedSuccesffuly = () => console.log(`
+  APIKEY successfully set ✨
+`);
 
 export class SetApiKey extends Command {
   static description = 'Set your Sendgrid API KEY';
@@ -30,20 +36,16 @@ export class SetApiKey extends Command {
   async run() {
     const { args: { APIKEY } } = this.parse(SetApiKey);
 
-    if(!APIKEY) {
-      console.warn(`\nPlease provide a ${chalk.green('SendGrid APIKEY')}\n`);
+    if (!APIKEY) {
+      ifApikeyDoesNotExist();
       return false;
     }
 
     if (!checkApiKeyPrefix(APIKEY) || !checkApiKeyLength(APIKEY)) {
-      console.warn(`\n${chalk.white.bgRed(' ERROR ')} ${chalk.green(APIKEY)} is not a valid SendGrid APIKEY\n`);
+      ifApikeyValidationFails(APIKEY);
       return false;
     }
 
-    await saveApiKeyToDataDir(APIKEY, this.config.dataDir);
-
-    console.log(`
-    APIKEY successfully set ✨
-    `);
+    await saveApiKeyToDataDir(getDataFileLocation(this.config), APIKEY);
   };
 };
