@@ -1,10 +1,13 @@
 import {Hook} from '@oclif/config'
 import fs from 'fs-extra';
+import { getDataFileLocation } from '../helpers';
 
 export const hook: Hook<'init'> = async function (options) {
-  if(fs.pathExists(`${this.config.dataDir}/data.json`)) {
+  const dataFileLocation = getDataFileLocation(this.config)
+
+  if(await fs.pathExists(dataFileLocation)) {
     return false;
   }
 
-  await fs.writeJSON(`${this.config.dataDir}/data.json`, {});
+  await fs.writeJSON(dataFileLocation, { APIKEY: null });
 }
