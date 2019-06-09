@@ -2,6 +2,7 @@ import { Command } from '@oclif/command';
 import * as fs from 'fs-extra';
 import { encryptApiKey } from '../../helpers/encrypt';
 import chalk from 'chalk'
+import { getDataFileLocation } from '../../helpers';
 
 const checkApiKeyLength = (APIKEY: string) => {
   return APIKEY.length === 69;
@@ -11,11 +12,8 @@ const checkApiKeyPrefix = (APIKEY: string) => {
   return APIKEY.includes('SG');
 };
 
-
-const saveApiKeyToDataDir = (APIKEY: string, dataDir: string) => {
-  return fs.writeFile(`${dataDir}/data.json`, JSON.stringify({
-    APIKEY: encryptApiKey(APIKEY),
-  }));
+const saveApiKeyToDataDir = (dataDir: string, APIKEY: string) => {
+  return fs.writeJSON(dataDir, { APIKEY: encryptApiKey(APIKEY) });
 };
 
 export class SetApiKey extends Command {
@@ -40,7 +38,7 @@ export class SetApiKey extends Command {
       return false;
     }
 
-    await saveApiKeyToDataDir(APIKEY, this.config.dataDir);
+    await saveApiKeyToDataDir(getDataFileLocation(this.config), APIKEY);
 
     console.log(`
     APIKEY successfully set ✨

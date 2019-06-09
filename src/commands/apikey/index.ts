@@ -1,13 +1,16 @@
 import { Command } from '@oclif/command';
 import chalk from 'chalk';
 import fs from 'fs-extra';
+import { getDataFileLocation } from '../../helpers';
 
 
 export class ApiKey extends Command {
   static description = 'Manage your SendGrid APIKEY';
   
   async run() {
-    const data = await fs.readJSON(`${this.config.dataDir}/data.json`);
+    const dataFileLocation = getDataFileLocation(this.config);
+
+    const data = await fs.readJSON(dataFileLocation);
 
     if(data.APIKEY) {
       console.log(`
