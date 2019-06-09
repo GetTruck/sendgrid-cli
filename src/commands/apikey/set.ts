@@ -30,6 +30,11 @@ export class SetApiKey extends Command {
   async run() {
     const { args: { APIKEY } } = this.parse(SetApiKey);
 
+    if(!APIKEY) {
+      console.warn(`\nPlease provide a ${chalk.green('SendGrid APIKEY')}\n`);
+      return false;
+    }
+
     if (!checkApiKeyPrefix(APIKEY) || !checkApiKeyLength(APIKEY)) {
       console.warn(`\n${chalk.white.bgRed(' ERROR ')} ${chalk.green(APIKEY)} is not a valid SendGrid APIKEY\n`);
       return false;
