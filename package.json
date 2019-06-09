@@ -46,6 +46,9 @@
   "main": "lib/index.js",
   "oclif": {
     "commands": "./lib/commands",
+    "hooks": {
+      "init": "./lib/hooks/init"
+    },
     "bin": "sendgrid",
     "plugins": [
       "@oclif/plugin-help"
