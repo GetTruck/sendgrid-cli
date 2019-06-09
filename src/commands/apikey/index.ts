@@ -26,7 +26,7 @@ export class ApiKey extends Command {
 
     const data: IdataFile = await fs.readJSON(dataFileLocation);
 
-    if(!data.APIKEY) {
+    if (!data.APIKEY) {
       ifApikeyDoesNotExistMessage();
       return false;
     }

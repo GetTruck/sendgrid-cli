@@ -5,7 +5,7 @@ import { getDataFileLocation } from '../helpers';
 export const hook: Hook<'init'> = async function (options) {
   const dataFileLocation = getDataFileLocation(this.config)
 
-  if(await fs.pathExists(dataFileLocation)) {
+  if (await fs.pathExists(dataFileLocation)) {
     return false;
   }
 
